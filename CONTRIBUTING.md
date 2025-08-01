@@ -8,3 +8,4 @@ Notes and usage details for Multi-Agent-Study-Assistant.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
