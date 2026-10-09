@@ -37,3 +37,4 @@ Notes and usage details for Multi-Agent-Study-Assistant.
 - fix a small wording issue
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
