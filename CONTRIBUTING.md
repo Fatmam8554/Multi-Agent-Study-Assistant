@@ -38,3 +38,4 @@ Notes and usage details for Multi-Agent-Study-Assistant.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- link the usage section
